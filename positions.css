@@ -5,9 +5,7 @@
 /*topとleftの掛けるかずの和が奇数になればOK leftをキーに辞書式配列*/
 
 /*非表示リスト*/
-.a9,.a10{
-  display: none;
-}
+
 
 .a1{
   left:calc(var(--l)*0);
