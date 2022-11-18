@@ -101,7 +101,7 @@ img{
 .card-container{
   position:absolute;
   top: 120px;
-  animation: 20s linear infinite running flow; /*250px/s くらいがちょうど良さそう*/
+  animation: 24s linear infinite running flow; /*250px/s くらいがちょうど良さそう*/
 }
 .underline{
   width:100%;
