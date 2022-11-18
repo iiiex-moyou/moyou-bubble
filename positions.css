@@ -1,0 +1,60 @@
+:root {
+  --t: 300px;
+  --l: 600px;
+}
+/*topとleftの掛けるかずの和が奇数になればOK leftをキーに辞書式配列*/
+
+/*非表示リスト*/
+.a5,.a6,.a7,.a8,.a9,.a10{
+  display: none;
+}
+
+.a1{
+  left:calc(var(--l)*0);
+  top:calc(var(--t)*0);
+}
+
+.a2{
+  left:calc(var(--l)*0);
+  top:calc(var(--t)*2);
+}
+
+.a3{
+  left:calc(var(--l)*1);
+  top:calc(var(--t)*1);
+}
+
+.a4{
+  left:calc(var(--l)*2);
+  top:calc(var(--t)*0);
+}
+
+.a5{
+  left:calc(var(--l)*2);
+  top:calc(var(--t)*2);
+}
+
+.a6{
+  left:calc(var(--l)*3);
+  top:calc(var(--t)*1);
+}
+
+.a7{
+  left:calc(var(--l)*4);
+  top:calc(var(--t)*0);
+}
+
+.a8{
+  left:calc(var(--l)*4);
+  top:calc(var(--t)*2);
+}
+
+.a9{
+  left:calc(var(--l)*5);
+  top:calc(var(--t)*1);
+}
+
+.a10{
+  left:calc(var(--l)*6);
+  top:calc(var(--t)*0);
+}
