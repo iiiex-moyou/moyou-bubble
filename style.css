@@ -117,12 +117,12 @@ img{
     left: 1600px; /*画面の横の長さ*/
   }
   100%{
-    left: -7500px; /*コンテナの幅の-1倍 大体要素数の400倍*/
+    left: -10000px; /*コンテナの幅の-1倍 大体要素数の400倍*/
   }
 }
 
 .card-container{
   position:absolute;
   top: 120px;
-  animation: 36s linear infinite running flow; /*250px/s くらいがちょうど良さそう*/
+  animation: 54s linear infinite running flow; /*250px/s くらいがちょうど良さそう*/
 }
