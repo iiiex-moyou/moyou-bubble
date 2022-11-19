@@ -102,11 +102,7 @@ img{
   text-align: right;
 }
 
-.card-container{
-  position:absolute;
-  top: 120px;
-  animation: 24s linear infinite running flow; /*250px/s くらいがちょうど良さそう*/
-}
+
 .underline{
   width:100%;
   height: 60px;
@@ -121,6 +117,12 @@ img{
     left: 1600px; /*画面の横の長さ*/
   }
   100%{
-    left: -4500px; /*コンテナの幅の-1倍 大体要素数の400倍*/
+    left: -7500px; /*コンテナの幅の-1倍 大体要素数の400倍*/
   }
+}
+
+.card-container{
+  position:absolute;
+  top: 120px;
+  animation: 36s linear infinite running flow; /*250px/s くらいがちょうど良さそう*/
 }
