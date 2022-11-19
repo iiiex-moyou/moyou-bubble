@@ -5,7 +5,9 @@
 /*topとleftの掛けるかずの和が奇数になればOK leftをキーに辞書式配列*/
 
 /*非表示リスト*/
-
+.a12,.a13,.a14,.a15,.a16,.a17,.a18,.a19,.a20,.a21,.a22,.a23,.a24,.a25,.a26,.a27,.a28,.a29,.a30,.a31,.a32,.a33,.a34,.a35,.a36,.a37,.a38,.a39,.a40,.a41,.a42,.a43,.a44,.a45,.a46,.a47,.a48,.a49,.a50,.a51,.a52,.a53,.a54,.a55,.a56,.a57,.a58,.a59,.a60,.a61,.a62,.a63,.a64,.a65,.a66,.a67,.a68,.a69,.a70,.a71,.a72,.a73,.a74,.a75,.a76,.a77,.a78,.a79,.a80,.a81,.a82,.a83,.a84,.a85,.a86,.a87,.a88,.a89,.a90,.a91,.a92,.a93,.a94,.a95,.a96,.a97,.a98,.a99,.a100,.a101,.a102,.a103,.a104,.a105,.a106,.a107,.a108,.a109,.a110,.a111,.a112,.a113,.a114,.a115,.a116,.a117,.a118,.a119,.a120,.a121,.a122,.a123,.a124,.a125,.a126,.a127,.a128,.a129,.a130,.a131,.a132,.a133,.a134,.a135,.a136,.a137,.a138,.a139,.a140,.a141,.a142,.a143,.a144,.a145,.a146,.a147,.a148,.a149,.a150,.a151,.a152,.a153,.a154,.a155,.a156,.a157,.a158,.a159{
+  display: none;
+}
 
 .a1{
   left:calc(var(--l)*0);
@@ -61,3 +63,1447 @@
   left:calc(var(--l)*6);
   top:calc(var(--t)*2);
 }
+
+.a12{
+  left:calc(var(--l)*7);
+  top:calc(var(--t)*1);
+}
+.a13{
+  left:calc(var(--l)*8);
+  top:calc(var(--t)*0);
+}
+.a14{
+  left:calc(var(--l)*8);
+  top:calc(var(--t)*2);
+}
+.a15{
+  left:calc(var(--l)*9);
+  top:calc(var(--t)*1);
+}
+.a16{
+  left:calc(var(--l)*10);
+  top:calc(var(--t)*0);
+}
+.a17{
+  left:calc(var(--l)*10);
+  top:calc(var(--t)*2);
+}
+.a18{
+  left:calc(var(--l)*11);
+  top:calc(var(--t)*1);
+}
+.a19{
+  left:calc(var(--l)*12);
+  top:calc(var(--t)*0);
+}
+.a20{
+  left:calc(var(--l)*12);
+  top:calc(var(--t)*2);
+}
+.a21{
+  left:calc(var(--l)*13);
+  top:calc(var(--t)*1);
+}
+.a22{
+  left:calc(var(--l)*14);
+  top:calc(var(--t)*0);
+}
+.a23{
+  left:calc(var(--l)*14);
+  top:calc(var(--t)*2);
+}
+.a24{
+  left:calc(var(--l)*15);
+  top:calc(var(--t)*1);
+}
+.a25{
+  left:calc(var(--l)*16);
+  top:calc(var(--t)*0);
+}
+.a26{
+  left:calc(var(--l)*16);
+  top:calc(var(--t)*2);
+}
+.a27{
+  left:calc(var(--l)*17);
+  top:calc(var(--t)*1);
+}
+.a28{
+  left:calc(var(--l)*18);
+  top:calc(var(--t)*0);
+}
+.a29{
+  left:calc(var(--l)*18);
+  top:calc(var(--t)*2);
+}
+.a30{
+  left:calc(var(--l)*19);
+  top:calc(var(--t)*1);
+}
+.a31{
+  left:calc(var(--l)*20);
+  top:calc(var(--t)*0);
+}
+.a32{
+  left:calc(var(--l)*20);
+  top:calc(var(--t)*2);
+}
+.a33{
+  left:calc(var(--l)*21);
+  top:calc(var(--t)*1);
+}
+.a34{
+  left:calc(var(--l)*22);
+  top:calc(var(--t)*0);
+}
+.a35{
+  left:calc(var(--l)*22);
+  top:calc(var(--t)*2);
+}
+.a36{
+  left:calc(var(--l)*23);
+  top:calc(var(--t)*1);
+}
+.a37{
+  left:calc(var(--l)*24);
+  top:calc(var(--t)*0);
+}
+.a38{
+  left:calc(var(--l)*24);
+  top:calc(var(--t)*2);
+}
+.a39{
+  left:calc(var(--l)*25);
+  top:calc(var(--t)*1);
+}
+.a40{
+  left:calc(var(--l)*26);
+  top:calc(var(--t)*0);
+}
+.a41{
+  left:calc(var(--l)*26);
+  top:calc(var(--t)*2);
+}
+.a42{
+  left:calc(var(--l)*27);
+  top:calc(var(--t)*1);
+}
+.a43{
+  left:calc(var(--l)*28);
+  top:calc(var(--t)*0);
+}
+.a44{
+  left:calc(var(--l)*28);
+  top:calc(var(--t)*2);
+}
+.a45{
+  left:calc(var(--l)*29);
+  top:calc(var(--t)*1);
+}
+.a46{
+  left:calc(var(--l)*30);
+  top:calc(var(--t)*0);
+}
+.a47{
+  left:calc(var(--l)*30);
+  top:calc(var(--t)*2);
+}
+.a48{
+  left:calc(var(--l)*31);
+  top:calc(var(--t)*1);
+}
+.a49{
+  left:calc(var(--l)*32);
+  top:calc(var(--t)*0);
+}
+.a50{
+  left:calc(var(--l)*32);
+  top:calc(var(--t)*2);
+}
+.a51{
+  left:calc(var(--l)*33);
+  top:calc(var(--t)*1);
+}
+.a52{
+  left:calc(var(--l)*34);
+  top:calc(var(--t)*0);
+}
+.a53{
+  left:calc(var(--l)*34);
+  top:calc(var(--t)*2);
+}
+.a54{
+  left:calc(var(--l)*35);
+  top:calc(var(--t)*1);
+}
+.a55{
+  left:calc(var(--l)*36);
+  top:calc(var(--t)*0);
+}
+.a56{
+  left:calc(var(--l)*36);
+  top:calc(var(--t)*2);
+}
+.a57{
+  left:calc(var(--l)*37);
+  top:calc(var(--t)*1);
+}
+.a58{
+  left:calc(var(--l)*38);
+  top:calc(var(--t)*0);
+}
+.a59{
+  left:calc(var(--l)*38);
+  top:calc(var(--t)*2);
+}
+.a60{
+  left:calc(var(--l)*39);
+  top:calc(var(--t)*1);
+}
+.a61{
+  left:calc(var(--l)*40);
+  top:calc(var(--t)*0);
+}
+.a62{
+  left:calc(var(--l)*40);
+  top:calc(var(--t)*2);
+}
+.a63{
+  left:calc(var(--l)*41);
+  top:calc(var(--t)*1);
+}
+.a64{
+  left:calc(var(--l)*42);
+  top:calc(var(--t)*0);
+}
+.a65{
+  left:calc(var(--l)*42);
+  top:calc(var(--t)*2);
+}
+.a66{
+  left:calc(var(--l)*43);
+  top:calc(var(--t)*1);
+}
+.a67{
+  left:calc(var(--l)*44);
+  top:calc(var(--t)*0);
+}
+.a68{
+  left:calc(var(--l)*44);
+  top:calc(var(--t)*2);
+}
+.a69{
+  left:calc(var(--l)*45);
+  top:calc(var(--t)*1);
+}
+.a70{
+  left:calc(var(--l)*46);
+  top:calc(var(--t)*0);
+}
+.a71{
+  left:calc(var(--l)*46);
+  top:calc(var(--t)*2);
+}
+.a72{
+  left:calc(var(--l)*47);
+  top:calc(var(--t)*1);
+}
+.a73{
+  left:calc(var(--l)*48);
+  top:calc(var(--t)*0);
+}
+.a74{
+  left:calc(var(--l)*48);
+  top:calc(var(--t)*2);
+}
+.a75{
+  left:calc(var(--l)*49);
+  top:calc(var(--t)*1);
+}
+.a76{
+  left:calc(var(--l)*50);
+  top:calc(var(--t)*0);
+}
+.a77{
+  left:calc(var(--l)*50);
+  top:calc(var(--t)*2);
+}
+.a78{
+  left:calc(var(--l)*51);
+  top:calc(var(--t)*1);
+}
+.a79{
+  left:calc(var(--l)*52);
+  top:calc(var(--t)*0);
+}
+.a80{
+  left:calc(var(--l)*52);
+  top:calc(var(--t)*2);
+}
+.a81{
+  left:calc(var(--l)*53);
+  top:calc(var(--t)*1);
+}
+.a82{
+  left:calc(var(--l)*54);
+  top:calc(var(--t)*0);
+}
+.a83{
+  left:calc(var(--l)*54);
+  top:calc(var(--t)*2);
+}
+.a84{
+  left:calc(var(--l)*55);
+  top:calc(var(--t)*1);
+}
+.a85{
+  left:calc(var(--l)*56);
+  top:calc(var(--t)*0);
+}
+.a86{
+  left:calc(var(--l)*56);
+  top:calc(var(--t)*2);
+}
+.a87{
+  left:calc(var(--l)*57);
+  top:calc(var(--t)*1);
+}
+.a88{
+  left:calc(var(--l)*58);
+  top:calc(var(--t)*0);
+}
+.a89{
+  left:calc(var(--l)*58);
+  top:calc(var(--t)*2);
+}
+.a90{
+  left:calc(var(--l)*59);
+  top:calc(var(--t)*1);
+}
+.a91{
+  left:calc(var(--l)*60);
+  top:calc(var(--t)*0);
+}
+.a92{
+  left:calc(var(--l)*60);
+  top:calc(var(--t)*2);
+}
+.a93{
+  left:calc(var(--l)*61);
+  top:calc(var(--t)*1);
+}
+.a94{
+  left:calc(var(--l)*62);
+  top:calc(var(--t)*0);
+}
+.a95{
+  left:calc(var(--l)*62);
+  top:calc(var(--t)*2);
+}
+.a96{
+  left:calc(var(--l)*63);
+  top:calc(var(--t)*1);
+}
+.a97{
+  left:calc(var(--l)*64);
+  top:calc(var(--t)*0);
+}
+.a98{
+  left:calc(var(--l)*64);
+  top:calc(var(--t)*2);
+}
+.a99{
+  left:calc(var(--l)*65);
+  top:calc(var(--t)*1);
+}
+.a100{
+  left:calc(var(--l)*66);
+  top:calc(var(--t)*0);
+}
+.a101{
+  left:calc(var(--l)*66);
+  top:calc(var(--t)*2);
+}
+.a102{
+  left:calc(var(--l)*67);
+  top:calc(var(--t)*1);
+}
+.a103{
+  left:calc(var(--l)*68);
+  top:calc(var(--t)*0);
+}
+.a104{
+  left:calc(var(--l)*68);
+  top:calc(var(--t)*2);
+}
+.a105{
+  left:calc(var(--l)*69);
+  top:calc(var(--t)*1);
+}
+.a106{
+  left:calc(var(--l)*70);
+  top:calc(var(--t)*0);
+}
+.a107{
+  left:calc(var(--l)*70);
+  top:calc(var(--t)*2);
+}
+.a108{
+  left:calc(var(--l)*71);
+  top:calc(var(--t)*1);
+}
+.a109{
+  left:calc(var(--l)*72);
+  top:calc(var(--t)*0);
+}
+.a110{
+  left:calc(var(--l)*72);
+  top:calc(var(--t)*2);
+}
+.a111{
+  left:calc(var(--l)*73);
+  top:calc(var(--t)*1);
+}
+.a112{
+  left:calc(var(--l)*74);
+  top:calc(var(--t)*0);
+}
+.a113{
+  left:calc(var(--l)*74);
+  top:calc(var(--t)*2);
+}
+.a114{
+  left:calc(var(--l)*75);
+  top:calc(var(--t)*1);
+}
+.a115{
+  left:calc(var(--l)*76);
+  top:calc(var(--t)*0);
+}
+.a116{
+  left:calc(var(--l)*76);
+  top:calc(var(--t)*2);
+}
+.a117{
+  left:calc(var(--l)*77);
+  top:calc(var(--t)*1);
+}
+.a118{
+  left:calc(var(--l)*78);
+  top:calc(var(--t)*0);
+}
+.a119{
+  left:calc(var(--l)*78);
+  top:calc(var(--t)*2);
+}
+.a120{
+  left:calc(var(--l)*79);
+  top:calc(var(--t)*1);
+}
+.a121{
+  left:calc(var(--l)*80);
+  top:calc(var(--t)*0);
+}
+.a122{
+  left:calc(var(--l)*80);
+  top:calc(var(--t)*2);
+}
+.a123{
+  left:calc(var(--l)*81);
+  top:calc(var(--t)*1);
+}
+.a124{
+  left:calc(var(--l)*82);
+  top:calc(var(--t)*0);
+}
+.a125{
+  left:calc(var(--l)*82);
+  top:calc(var(--t)*2);
+}
+.a126{
+  left:calc(var(--l)*83);
+  top:calc(var(--t)*1);
+}
+.a127{
+  left:calc(var(--l)*84);
+  top:calc(var(--t)*0);
+}
+.a128{
+  left:calc(var(--l)*84);
+  top:calc(var(--t)*2);
+}
+.a129{
+  left:calc(var(--l)*85);
+  top:calc(var(--t)*1);
+}
+.a130{
+  left:calc(var(--l)*86);
+  top:calc(var(--t)*0);
+}
+.a131{
+  left:calc(var(--l)*86);
+  top:calc(var(--t)*2);
+}
+.a132{
+  left:calc(var(--l)*87);
+  top:calc(var(--t)*1);
+}
+.a133{
+  left:calc(var(--l)*88);
+  top:calc(var(--t)*0);
+}
+.a134{
+  left:calc(var(--l)*88);
+  top:calc(var(--t)*2);
+}
+.a135{
+  left:calc(var(--l)*89);
+  top:calc(var(--t)*1);
+}
+.a136{
+  left:calc(var(--l)*90);
+  top:calc(var(--t)*0);
+}
+.a137{
+  left:calc(var(--l)*90);
+  top:calc(var(--t)*2);
+}
+.a138{
+  left:calc(var(--l)*91);
+  top:calc(var(--t)*1);
+}
+.a139{
+  left:calc(var(--l)*92);
+  top:calc(var(--t)*0);
+}
+.a140{
+  left:calc(var(--l)*92);
+  top:calc(var(--t)*2);
+}
+.a141{
+  left:calc(var(--l)*93);
+  top:calc(var(--t)*1);
+}
+.a142{
+  left:calc(var(--l)*94);
+  top:calc(var(--t)*0);
+}
+.a143{
+  left:calc(var(--l)*94);
+  top:calc(var(--t)*2);
+}
+.a144{
+  left:calc(var(--l)*95);
+  top:calc(var(--t)*1);
+}
+.a145{
+  left:calc(var(--l)*96);
+  top:calc(var(--t)*0);
+}
+.a146{
+  left:calc(var(--l)*96);
+  top:calc(var(--t)*2);
+}
+.a147{
+  left:calc(var(--l)*97);
+  top:calc(var(--t)*1);
+}
+.a148{
+  left:calc(var(--l)*98);
+  top:calc(var(--t)*0);
+}
+.a149{
+  left:calc(var(--l)*98);
+  top:calc(var(--t)*2);
+}
+.a150{
+  left:calc(var(--l)*99);
+  top:calc(var(--t)*1);
+}
+.a151{
+  left:calc(var(--l)*100);
+  top:calc(var(--t)*0);
+}
+.a152{
+  left:calc(var(--l)*100);
+  top:calc(var(--t)*2);
+}
+.a153{
+  left:calc(var(--l)*101);
+  top:calc(var(--t)*1);
+}
+.a154{
+  left:calc(var(--l)*102);
+  top:calc(var(--t)*0);
+}
+.a155{
+  left:calc(var(--l)*102);
+  top:calc(var(--t)*2);
+}
+.a156{
+  left:calc(var(--l)*103);
+  top:calc(var(--t)*1);
+}
+.a157{
+  left:calc(var(--l)*104);
+  top:calc(var(--t)*0);
+}
+.a158{
+  left:calc(var(--l)*104);
+  top:calc(var(--t)*2);
+}
+.a159{
+  left:calc(var(--l)*105);
+  top:calc(var(--t)*1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
